@@ -7,6 +7,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucianoccr&show_icons=true&theme=gruvbox&locale=en" alt="lucianoccr" /><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianoccr&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="lucianoccr" /></p>
 <br/><br><br>
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline">
